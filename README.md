@@ -1,2 +1,13 @@
 # Vetografia-
-Projeto de linguagem nativa de IA com Interface para humanos
+Projeto de linguagem nativa de IA com Interface para humanos.
+
+## Teste
+Este repositório contém uma proposta inicial de interface para análises vetográficas,
+incluindo métricas como:
+
+- Bits ativos e padding.
+- Entropia global e entropia local por janela.
+- Distribuição por camadas e distância de Hamming.
+
+Esta seção serve como ponto de partida para futuras descrições detalhadas e exemplos
+visuais do projeto.
