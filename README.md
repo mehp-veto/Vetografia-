@@ -11,3 +11,15 @@ incluindo métricas como:
 
 Esta seção serve como ponto de partida para futuras descrições detalhadas e exemplos
 visuais do projeto.
+
+## Experimento Vetografia + HDC
+O script `vetografia_hdc.py` reproduz o experimento de vetores semânticos com
+operações de HDC para os conceitos "amor", "amizade" e "verdade". Ele gera
+vetores com densidades distintas, combina-os por soma e aplica multiplicação
+circular (XOR sobre projeções inteiras), imprimindo os 10 primeiros valores de
+cada resultado.
+
+### Como executar
+```bash
+python vetografia_hdc.py
+```
