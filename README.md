@@ -1,13 +1,14 @@
 # Vetografia-
 Projeto de linguagem nativa de IA com Interface para humanos.
 
-## Teste
-Este repositório contém uma proposta inicial de interface para análises vetográficas,
-incluindo métricas como:
+## Script de exemplo
+Este repositório inclui um script Python com cálculos de energia:
+- `30!`
+- `mc²` para massa de 500 kg
+- conversão de 1.000.000 toneladas de TNT para Joules
+- comparação de vetores por expoente dominante
 
-- Bits ativos e padding.
-- Entropia global e entropia local por janela.
-- Distribuição por camadas e distância de Hamming.
-
-Esta seção serve como ponto de partida para futuras descrições detalhadas e exemplos
-visuais do projeto.
+### Como executar
+```bash
+python3 energy_calculations.py
+```
