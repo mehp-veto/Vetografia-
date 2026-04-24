@@ -12,3 +12,13 @@ Este repositório inclui um script Python com cálculos de energia:
 ```bash
 python3 energy_calculations.py
 ```
+
+
+## Representação de conceitos
+Também há um exemplo simples de representação vetorial de conceitos usando NumPy:
+- `concept_representation.py`
+
+Execute com:
+```bash
+python3 concept_representation.py
+```
